@@ -89,7 +89,7 @@ function main(){
     //add 1 item
     arr.push('tauhida'); 
 
-    console.log(arr)
+    console.log(arr);
     console.log(arr.get(0));
     // result = NaN Does our memeory or Array class allow us to input a string?
 
